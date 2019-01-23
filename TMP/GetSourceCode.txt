@@ -63,3 +63,5 @@ https://github.com/pygame/pygameweb.git
 : https://github.com/silverstripe
 : SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN
 https://mambo-developer.org/svn/
+
+https://github.com/getpatchwork/patchwork.git
