@@ -1,0 +1,20 @@
+
+git clone https://github.com/django/django.git
+git clone https://github.com/django/django-formtools.git
+git clone https://github.com/django/channels.git
+git clone https://github.com/django/asgiref.git
+git clone https://github.com/django/channels_redis.git
+git clone https://github.com/django/djangoproject.com.git
+git clone https://github.com/django/djangosnippets.org.git
+git clone https://github.com/django/deps.git
+git clone https://github.com/django/daphne.git
+git clone https://github.com/django/django-localflavor.git
+git clone https://github.com/django/code.djangoproject.com.git
+git clone https://github.com/django/django-docs-translations.git
+git clone https://github.com/django/djangopeople.git
+git clone https://github.com/django/django-box.git
+git clone https://github.com/django/code-of-conduct.git
+git clone https://github.com/django/asgi_ipc.git
+git clone https://github.com/django/django-contrib-comments.git
+git clone https://github.com/django/djangobench.git
+git clone https://github.com/django/ticketbot.git

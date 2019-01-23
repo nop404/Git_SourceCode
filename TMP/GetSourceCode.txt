@@ -1,0 +1,65 @@
+: mediawiki
+git clone https://gerrit.wikimedia.org/r/p/mediawiki/core.git --branch REL1_31 mediawiki
+: openwrt
+: git clone https://git.openwrt.org/openwrt/openwrt.git
+git clone https://github.com/openwrt/openwrt.git
+: vim
+git clone https://github.com/vim/vim.git
+: Luci
+git clone https://github.com/openwrt/luci.git
+https://github.com/connectbot/connectbot
+: blender
+: freemind
+: cleanflight
+: VESC
+https://github.com/vedderb/rise_sdvp.git
+https://github.com/vedderb/bldc-bootloader.git
+https://github.com/vedderb/bldc_uart_comm_stm32f4_discovery.git
+https://github.com/vedderb/bldc.git
+https://github.com/vedderb/vesc_tool.git
+https://github.com/vedderb/svm_sim.git
+https://github.com/vedderb/summon-arm-toolchain.git
+https://github.com/vedderb/nrf51_vesc.git
+https://github.com/vedderb/bldc-tool.git
+https://github.com/vedderb/nunchuk_mod.git
+https://github.com/vedderb/bldc-hardware.git
+https://github.com/vedderb/bldc-logger.git
+https://github.com/vedderb/QuadcopterSystem.git
+https://github.com/vedderb/nunchuk_rf_hw.git
+https://github.com/vedderb/FaultCheck_QuickCheck.git
+https://github.com/vedderb/CapPCB.git
+https://github.com/vedderb/SparkSwitch.git
+https://github.com/vedderb/udp-uart-bridge.git
+https://github.com/vedderb/FaultCheck_ScalaCheck.git
+https://github.com/vedderb/nrf24l01plus_stm32f100_chibios.git
+https://github.com/vedderb/rfboard-chibios.git
+https://github.com/vedderb/contiki.git
+
+: Django
+: Merlin
+: ffmpeg
+: Git
+: HackRF
+: OpenCV
+: OpenLog
+: OpenOCD
+: mantis
+: Dolibarr
+https://github.com/Dolibarr/dolibarr.git
+: wordpress
+git clone git://core.git.wordpress.org/
+: PhpMyAdmin
+git clone https://github.com/phpmyadmin/phpmyadmin.git
+: Lua
+curl -R -O http://www.lua.org/ftp/lua-5.3.5.tar.gz
+git clone https://github.com/rjpcomputing/luaforwindows.git
+: AutoHotKey
+git clone https://github.com/Lexikos/AutoHotkey_L.git
+git clone https://github.com/Dolibarr/dolibarr.git
+git clone  https://github.com/AppStateESS/phpwebsite.git
+https://github.com/rovo89/XposedInstaller.git
+https://github.com/pygame/pygame.git
+https://github.com/pygame/pygameweb.git
+: https://github.com/silverstripe
+: SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN SVN
+https://mambo-developer.org/svn/
