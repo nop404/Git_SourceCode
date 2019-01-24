@@ -20,4 +20,3 @@ git clone https://github.com/vedderb/FaultCheck_ScalaCheck.git
 git clone https://github.com/vedderb/nrf24l01plus_stm32f100_chibios.git
 git clone https://github.com/vedderb/rfboard-chibios.git
 git clone https://github.com/vedderb/contiki.git
-git clone 

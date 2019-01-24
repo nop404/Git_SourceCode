@@ -25,6 +25,10 @@ https://github.com/vedderb/nunchuk_mod.git
 https://github.com/vedderb/bldc-hardware.git
 https://github.com/vedderb/bldc-logger.git
 https://github.com/vedderb/QuadcopterSystem.git
+
+wireshark
+frzilla
+tftpd32
 https://github.com/vedderb/nunchuk_rf_hw.git
 https://github.com/vedderb/FaultCheck_QuickCheck.git
 https://github.com/vedderb/CapPCB.git
@@ -65,3 +69,9 @@ https://github.com/pygame/pygameweb.git
 https://mambo-developer.org/svn/
 
 https://github.com/getpatchwork/patchwork.git
+
+git://git.zx2c4.com/cgit
+https://gerrit.googlesource.com/gerrit/
+
+https://gitlab.com/fjsanpedro/gitlab-ce
+git clone https://gerrit.googlesource.com/git-repo
